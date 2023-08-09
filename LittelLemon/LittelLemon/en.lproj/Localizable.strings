@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  LittleLemon
+
+  Created by Dirgha Kathiriya on 09/08/2023.
+  
+*/
+
+"no_data" = "Registration unsuccessful. Please enter all data.";
+"no_email" = "The email entered is not valid";
+"first_name" = "First Name *";
+"last_name" = "Last Name *";
+"email" = "Email *";
+"filter_order_for_delivery" = "Order for delivery!";
+"filter_all" = "All";
+"filter_starters" = "Starters";
+"filter_mains" = "Mains";
+"filter_desserts" = "Desserts";
+"filter_sides" = "Sides";
+"app_name" = "Little Lemon";
+"title" = "Little Lemon";
+"location" = "Chicago";
+"description" = "We are a family owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.";
+"search_placehloder" = "Enter search phrase";
+
